@@ -1,7 +1,7 @@
 # Evolution & Archetypes of NFL Quarterbacks – A Data Science Approach
 
 ## Overview
-This project analyzes the **evolution of the quarterback position in the NFL** using historical passing and rushing data from 1932 to 2022. The NFL is deeply embedded in American culture, and the quarterback is widely recognized as the most critical position on the field—directing the offense, reading defenses, and making game-changing decisions.
+This project analyzes the **evolution of the quarterback position in the NFL** using historical passing and rushing data from 1932 to 2022. The NFL is deeply embedded in American culture, and the quarterback is widely recognized as the most critical position on the field-directing the offense, reading defenses, and making game-changing decisions.
 
 By examining career statistics, we uncover trends in quarterback play across eras, identify different QB archetypes, and provide insights into what makes a quarterback successful in various contexts.
 
